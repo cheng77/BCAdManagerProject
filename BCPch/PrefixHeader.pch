@@ -1,0 +1,12 @@
+//
+//  PrefixHeader.pch
+//  BCAdManagerProject
+//
+//  Created by Ning on 2019/8/27.
+//  Copyright © 2019 Ning. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import <GoogleMobileAds/GoogleMobileAds.h>
+#endif /* PrefixHeader_pch */
